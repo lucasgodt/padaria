@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "773724335869",
+    "firebase_url": "https://padaria-app-3aa62.firebaseio.com",
+    "project_id": "padaria-app-3aa62",
+    "storage_bucket": "padaria-app-3aa62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773724335869:android:ae28729aa49732b9",
+        "android_client_info": {
+          "package_name": "br.com.lucasgodt.padaria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773724335869-h174qk7vbrp56pqvmfed6a1lleis7dao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7UO6Aa8R8NHlAqZx8PAGwS7z7YcbyjGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773724335869-h174qk7vbrp56pqvmfed6a1lleis7dao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
